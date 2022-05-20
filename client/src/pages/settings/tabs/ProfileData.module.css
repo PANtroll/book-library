@@ -1,0 +1,48 @@
+.circle {
+  height: 150px;
+  width: 150px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.text {
+  color: #fff;
+  font-size: 40px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+}
+
+.button {
+  background-color: #2abfbf;
+  border: none;
+  color: white;
+  padding: 15px 25px;
+  text-decoration: none;
+  width: 215px;
+  font-size: 26px;
+  border-radius: 35px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.logOut {
+  font-size: 32px;
+  text-decoration: underline;
+  color: #fff;
+  margin-top: 50px;
+}
+.buttonUpload{
+  background-color: #2abfbf;
+  border: none;
+  color: white;
+  padding: 15px 25px;
+  text-decoration: none;
+  width: 170px;
+  font-size: 16px;
+  border-radius: 35px;
+  margin-top: 20px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.button:hover{
+  color: rgba(0, 0, 0, 0.822);
+}

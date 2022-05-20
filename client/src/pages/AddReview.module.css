@@ -1,0 +1,35 @@
+.background {
+    background-color: #026873;
+    height: calc(100vh - 66px);
+    width: 100%;
+}
+
+.text {
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+    font-size: 56px;
+    font-weight: 400;
+}
+.subText{
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+    font-size: 26px;
+    font-weight: 300;
+}
+
+.button {
+    background-color: #2abfbf;
+    border: none;
+    color: white;  
+    text-align: center;
+    text-decoration: none;
+    width: 180px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 35px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+  }
+  .button:hover{
+    color: rgba(0, 0, 0, 0.822);
+}

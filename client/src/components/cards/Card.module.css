@@ -1,0 +1,19 @@
+.title{
+    color: #054A59;
+    font-size: 26px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    
+}
+.button {
+    background-color: #054A59;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 30px;
+    text-decoration: none;
+    width: 115px;
+    font-size: 16px;
+    border-radius: 5px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
